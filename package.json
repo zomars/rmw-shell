@@ -76,7 +76,7 @@
     "material-ui-responsive-menu": "^1.19.3",
     "material-ui-selectable-menu-list": "^1.19.5",
     "material-ui-superselectfield": "^1.8.6",
-    "nwb": "^0.21.5",
+    "nwb": "^0.25.2",
     "prop-types": "^15.6.1",
     "react": "^16.2.0",
     "react-chartjs-2": "^2.7.0",
